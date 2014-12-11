@@ -1,1 +1,2 @@
 add a line!
+add a new line to test the git is working correct!
