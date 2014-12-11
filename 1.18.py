@@ -3,5 +3,5 @@ __author__ = 'Yun Zhu'
 
 from selenium import webdriver
 
-br = webdriver.Chrome()
+br = webdriver.Ie()
 br.get('http://www.douban.com')
