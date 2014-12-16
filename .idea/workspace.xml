@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f695d0a7-b737-41ba-8166-090d5b62508b" name="Default" comment="add some new files">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tkpy_word_play.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words.txt" />
+    <list default="true" id="f695d0a7-b737-41ba-8166-090d5b62508b" name="Default" comment="start a case study: word play">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tkpy_word_play.py" afterPath="$PROJECT_DIR$/tkpy_word_play.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PythonCookbook_Test.iws" />
@@ -28,21 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="tkpy_word_play.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="tkpy_word_play.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tkpy_word_play.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="190">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="words.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/words.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.1897436" vertical-offset="2161804" max-vertical-offset="2162466">
-              <caret line="113785" column="7" selection-start-line="113785" selection-start-column="7" selection-end-line="113785" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.6495727" vertical-offset="380" max-vertical-offset="1026">
+              <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -66,13 +56,14 @@
         <option value="$PROJECT_DIR$/4_tkinter.py" />
         <option value="$PROJECT_DIR$/13.11_socket.py" />
         <option value="$PROJECT_DIR$/tkpy_4.6_interface_design.py" />
-        <option value="$PROJECT_DIR$/tkpy_word_play.py" />
         <option value="$PROJECT_DIR$/words.txt" />
+        <option value="$PROJECT_DIR$/words2.txt" />
+        <option value="$PROJECT_DIR$/tkpy_word_play.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="986" />
+    <option name="width" value="960" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -105,7 +96,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -116,7 +107,29 @@
       <autoscrollFromSource />
       <sortByType />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PythonCookbook_Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PythonCookbook_Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PythonCookbook_Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.lastSelected" value="preferences.keymap" />
@@ -131,26 +144,12 @@
       <console-settings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.tkpy_4.6_interface_design">
-    <configuration default="false" name="1.10_maketrans" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonCookbook_Test" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.10_maketrans.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\GitHub\PythonCookbook_Test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.tkpy_word_play">
     <configuration default="false" name="3.1_timedelta" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -221,6 +220,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonCookbook_Test" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tkpy_4.6_interface_design.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="tkpy_word_play" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonCookbook_Test" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tkpy_word_play.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <RunnerSettings RunnerId="PythonRunner" />
@@ -350,19 +368,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.1.10_maketrans" />
-      <item index="1" class="java.lang.String" itemvalue="Python.3.1_timedelta" />
-      <item index="2" class="java.lang.String" itemvalue="Python.3.11_sched" />
-      <item index="3" class="java.lang.String" itemvalue="Python.13.11_socket" />
-      <item index="4" class="java.lang.String" itemvalue="Python.tkpy_4.6_interface_design" />
+      <item index="0" class="java.lang.String" itemvalue="Python.3.1_timedelta" />
+      <item index="1" class="java.lang.String" itemvalue="Python.3.11_sched" />
+      <item index="2" class="java.lang.String" itemvalue="Python.13.11_socket" />
+      <item index="3" class="java.lang.String" itemvalue="Python.tkpy_4.6_interface_design" />
+      <item index="4" class="java.lang.String" itemvalue="Python.tkpy_word_play" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.tkpy_4.6_interface_design" />
-        <item index="1" class="java.lang.String" itemvalue="Python.13.11_socket" />
-        <item index="2" class="java.lang.String" itemvalue="Python.3.11_sched" />
-        <item index="3" class="java.lang.String" itemvalue="Python.3.1_timedelta" />
-        <item index="4" class="java.lang.String" itemvalue="Python.1.10_maketrans" />
+        <item index="0" class="java.lang.String" itemvalue="Python.tkpy_word_play" />
+        <item index="1" class="java.lang.String" itemvalue="Python.tkpy_4.6_interface_design" />
+        <item index="2" class="java.lang.String" itemvalue="Python.13.11_socket" />
+        <item index="3" class="java.lang.String" itemvalue="Python.3.11_sched" />
+        <item index="4" class="java.lang.String" itemvalue="Python.3.1_timedelta" />
       </list>
     </recent_temporary>
   </component>
@@ -407,23 +425,29 @@
       <option name="project" value="LOCAL" />
       <updated>1418738114470</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="start a case study: word play">
+      <created>1418738157205</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1418738157205</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="986" height="1040" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="960" height="1040" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32819384" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31951872" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3190319" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" x="82" y="130" width="948" height="463" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31828195" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" x="82" y="130" width="948" height="463" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3270925" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32378855" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32378855" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3960396" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14978904" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14967462" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -454,7 +478,8 @@
     <MESSAGE value="add a new line in Test.txt" />
     <MESSAGE value="add some new files" />
     <MESSAGE value="do some work in tkpy_4.6_interface_design.py&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="do some work in tkpy_4.6_interface_design.py&#10;" />
+    <MESSAGE value="start a case study: word play" />
+    <option name="LAST_COMMIT_MESSAGE" value="start a case study: word play" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -636,18 +661,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tkpy_word_play.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="190">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/words.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.1897436" vertical-offset="2161804" max-vertical-offset="2162466">
           <caret line="113785" column="7" selection-start-line="113785" selection-start-column="7" selection-end-line="113785" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/words2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2162485">
+          <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tkpy_word_play.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6495727" vertical-offset="380" max-vertical-offset="1026">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
           <folding />
         </state>
       </provider>
